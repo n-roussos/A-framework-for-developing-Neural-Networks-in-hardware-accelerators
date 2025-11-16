@@ -1,6 +1,6 @@
 # A framework for developing Neural Networks in hardware accelerators
 ## Description
-This framework was part of the **Diploma thesis** titled "Architectures and Implementations of the Neural Network LeNet-5 in FPGAs".
+This framework was part of the **Diploma thesis** titled ["Architectures and Implementations of the Neural Network LeNet-5 in FPGAs"](https://nemertes.library.upatras.gr/items/4026dcc6-0a7d-4092-9e47-6491cad3f3fd).
 
 The **main goal** of this thesis was to create a LeNet-5 implementation in an FPGA development board, but also form a reusable framework/workflow which can be modified to model and develop other Neural Networks as well.
 
